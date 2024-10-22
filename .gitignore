@@ -1,0 +1,41 @@
+# Node modules
+/back/node_modules
+/front/node_modules
+/node_modules
+
+#Dist folder
+/back/dist
+
+# Angular cache
+/.angular/cache
+
+# Sass cache
+.sass-cache/
+
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled output
+/dist
+/build
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+#others
+/back/.env
+/front/.env
+/front/.angular
+# /front/enviroments/environment.ts
+# /front/enviroments/environment.development.ts
